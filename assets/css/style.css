@@ -154,7 +154,7 @@ header {
 	color: #ffffff;
 }
 
-#image1, #image2, #image3, #image4, #image5, #image6 {
+#image1, #image2, #image3, #image4, #image5, #image6, #image8, #image9 {
 	max-width: 100%;
 }
 
@@ -173,7 +173,8 @@ header {
 }
 
 .project:hover #image1, .project:hover #image2, .project:hover #image3, 
-.project:hover #image4, .project:hover #image5, .project:hover #image6, .project:hover #image7 {
+.project:hover #image4, .project:hover #image5, .project:hover #image6, 
+.project:hover #image7, .project:hover #image8, .project:hover #image9 {
 	transform: scale(1.005);
 }
 
