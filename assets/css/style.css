@@ -175,12 +175,14 @@ header {
 .project:hover #image1, .project:hover #image2, .project:hover #image3, 
 .project:hover #image4, .project:hover #image5, .project:hover #image6, 
 .project:hover #image7, .project:hover #image8, .project:hover #image9,
-.project:hover #image10m .project:hover #image11 {
+.project:hover #image10, .project:hover #image11 {
 	transform: scale(1.005);
+	cursor: pointer;
 }
 
 .project:hover .projectbox {
 	transform: scale(1.005);
+	cursor: pointer;
 }
 
 
