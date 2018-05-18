@@ -155,7 +155,7 @@ header {
 }
 
 #image1, #image2, #image3, #image4, #image5, 
-#image6, #image8, #image9, #image10, #image11, #image12 {
+#image6, #image8, #image9, #image10, #image11, #image12, #image13 {
 	max-width: 100%;
 }
 
@@ -176,7 +176,8 @@ header {
 .project:hover #image1, .project:hover #image2, .project:hover #image3, 
 .project:hover #image4, .project:hover #image5, .project:hover #image6, 
 .project:hover #image7, .project:hover #image8, .project:hover #image9,
-.project:hover #image10, .project:hover #image11, .project:hover #image12 {
+.project:hover #image10, .project:hover #image11, .project:hover #image12 
+.project:hover #image13{
 	transform: scale(1.005);
 	cursor: pointer;
 }
